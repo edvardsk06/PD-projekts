@@ -1,0 +1,48 @@
+
+.carousel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #42d4ca;
+}
+.body{
+    font-family: 'PT Serif', serif;
+    background-color:#2ec9be;
+}
+  header{
+    background-color: #9de9e3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.vidus{
+    background-color:#84e3dc;
+}
+.es{
+    background-color: #7ae1d9;
+}
+.galvenbilde{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #35d1c6;
+}
+
+.footer{
+    background-color: #2ec9be;
+}
+.es{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.dobs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#7ae1d9;  
+}
+.container{
+    background-color: #2ec9be;
+}
+   
